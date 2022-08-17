@@ -1,0 +1,14 @@
+name: Tags
+main: Pokker77\Main
+api: 4.0.0
+version: 1.0.0
+author: Pokker77
+commands:
+  tags:
+    description: gives you the name of the server ranks <3
+    usage: /tags
+    permission: tag.use
+permissions:
+  tag.use:
+    default: true
+    description: Permission tag
